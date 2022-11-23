@@ -1,7 +1,6 @@
-- 👋 Hi, I’m kas
-- 👀 I’m interested in software and hardware and everything in between
+- 👋 Hi, I’m kas and I'm an software engeneer
+- 🦀 I’m currently learning Rust
 - <!---
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
