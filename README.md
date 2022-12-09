@@ -1,1 +1,2 @@
-Currently interested in Go and Rust and React projects
+Currently interested in 
+Go, Rust, React
